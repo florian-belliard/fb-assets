@@ -1,7 +1,12 @@
 # fb-assets
 
-Public assets for the mails of Florian Belliard EI, served by jsDelivr. Gmail shows no SVG, so the
-design system's icons are published here as PNG.
+Public assets of the Florian Belliard EI design system, served by jsDelivr: anything a page, a mail
+or a document must load from a public address. The design system itself (tokens, components, source
+files) lives in the private repo fb-private, under `design-system/`; this repo only publishes what has
+to be public.
+
+Today: the design system's icons, as PNG in its colours. Gmail shows no SVG, and the Lucide project
+publishes SVG only, in one colour.
 
 ## Icons
 
